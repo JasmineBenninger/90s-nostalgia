@@ -1,0 +1,16 @@
+font family{
+    <font>Roboto</font>
+    text colour: #222;
+    line height: 1.4;
+    <font size: 110%
+    backgounf colour: white
+}
+
+body{
+    papdding: 2rem
+    border: 2px soild black
+     <img src="images/90s-nostalgia-logo.png" alt="" role="presentation">
+    width: 100%
+}
+
+   
